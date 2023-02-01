@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>81733342916-u5m2orcbadso9vtfkl1c1j5oapdav7em.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.81733342916-u5m2orcbadso9vtfkl1c1j5oapdav7em</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>81733342916-8o1nnposk7f6gn10lqrr9uu644j5h73s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdoCa_Dx27SDiTx61TwlKjstc-ZRVf79o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>81733342916</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eLearningSeminar2023</string>
+	<key>PROJECT_ID</key>
+	<string>e-learning-5b16a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>e-learning-5b16a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:81733342916:ios:43f9fc19f0e6b83338db91</string>
+</dict>
+</plist>

@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "81733342916",
+    "project_id": "e-learning-5b16a",
+    "storage_bucket": "e-learning-5b16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81733342916:android:f84f9cf4d958d4c938db91",
+        "android_client_info": {
+          "package_name": "com.example.e_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81733342916-bgrd6pst84mp1246cipcfafdrho9esjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMFm83B1mVecxWICyz6qcVcAGs07R7EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81733342916-bgrd6pst84mp1246cipcfafdrho9esjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81733342916:android:61159d9ca70d616b38db91",
+        "android_client_info": {
+          "package_name": "com.example.e_learning_seminar_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81733342916-8o1nnposk7f6gn10lqrr9uu644j5h73s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_learning_seminar_2023",
+            "certificate_hash": "b74bedf2f0d669cd5403bb6758d0b9f4e8ea2d5d"
+          }
+        },
+        {
+          "client_id": "81733342916-bgrd6pst84mp1246cipcfafdrho9esjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMFm83B1mVecxWICyz6qcVcAGs07R7EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81733342916-bgrd6pst84mp1246cipcfafdrho9esjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

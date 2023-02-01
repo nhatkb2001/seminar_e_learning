@@ -1,0 +1,93 @@
+name: e_learning_seminar_2023
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0-444.2.beta <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.4.1
+  shared_preferences: ^2.0.17
+  firebase_auth: ^4.2.5
+  cloud_firestore: ^4.3.1
+  flutter_spinkit: ^5.1.0
+  file_picker: ^5.2.5
+  firebase_storage: ^11.0.10
+  image_picker: ^0.8.6+1
+  uuid: ^3.0.7
+  firebase_messaging: ^14.2.1
+  email_otp: ^1.0.4
+  chewie: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  iconsax: ^0.0.8
+  flutter_svg: ^1.1.6
+flutter:
+  uses-material-design: true
+  assets:
+    #images 
+    - assets/images/
+    - assets/images/background/
+    - assets/vectors/
+    - assets/
+  fonts:
+    - family: Recoleta
+      fonts:
+        - asset: assets/fonts/Recoleta/Recoleta-Thin.ttf
+          style: normal
+          weight: 100
+        - asset: assets/fonts/Recoleta/Recoleta-Light.ttf
+          style: normal
+          weight: 300
+        - asset: assets/fonts/Recoleta/Recoleta-Regular.ttf
+          style: normal
+          weight: 400
+        - asset: assets/fonts/Recoleta/Recoleta-Medium.ttf
+          style: normal
+          weight: 500
+        - asset: assets/fonts/Recoleta/Recoleta-SemiBold.ttf
+          style: normal
+          weight: 600
+        - asset: assets/fonts/Recoleta/Recoleta-Bold.ttf
+          style: normal
+          weight: 700
+        - asset: assets/fonts/Recoleta/Recoleta-Black.ttf
+          style: normal
+          weight: 900
+    - family: Urbanist
+      fonts:
+        - asset: assets/fonts/Urbanist/Urbanist-Thin.ttf
+          style: normal
+          weight: 100
+        - asset: assets/fonts/Urbanist/Urbanist-ExtraLight.ttf
+          style: normal
+          weight: 200
+        - asset: assets/fonts/Urbanist/Urbanist-Light.ttf
+          style: normal
+          weight: 300
+        - asset: assets/fonts/Urbanist/Urbanist-Regular.ttf
+          style: normal
+          weight: 400
+        - asset: assets/fonts/Urbanist/Urbanist-Medium.ttf
+          style: normal
+          weight: 500
+        - asset: assets/fonts/Urbanist/Urbanist-SemiBold.ttf
+          style: normal
+          weight: 600
+        - asset: assets/fonts/Urbanist/Urbanist-Bold.ttf
+          style: normal
+          weight: 700
+        - asset: assets/fonts/Urbanist/Urbanist-ExtraBold.ttf
+          style: normal
+          weight: 800
+        - asset: assets/fonts/Urbanist/Urbanist-Black.ttf
+          style: normal
+          weight: 900
